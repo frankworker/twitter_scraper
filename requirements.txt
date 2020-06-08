@@ -1,0 +1,8 @@
+oauth2client
+gspread
+google-api
+google-api-python-client
+ZODB
+zodbpickle
+tweepy
+iso8601
