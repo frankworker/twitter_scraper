@@ -22,5 +22,4 @@ https://medium.com/@enfageorge/twittertrack-tracking-tweets-using-tweepy-beginne
 
 
 ## Gist
-v1: https://colab.research.google.com/gist/frankworker/da5bb265b525771279d1ff0b5d818387/scrape.ipynb
-v2: https://colab.research.google.com/gist/frankworker/39615a7c6408cf58957b02bbf76b3a9e/scrape.ipynb
+https://colab.research.google.com/gist/frankworker/aef539bda8ee3884ee93e32452c15b80/scrape.ipynb
