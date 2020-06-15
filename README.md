@@ -23,3 +23,6 @@ https://medium.com/@enfageorge/twittertrack-tracking-tweets-using-tweepy-beginne
 
 ## Gist
 https://colab.research.google.com/gist/frankworker/f59a3769128d89dadb104bda46cdb7fb/scrape.ipynb
+
+## Extract currency from a string - Regex
+https://regex101.com/r/6YsK0L/1
