@@ -26,3 +26,7 @@ https://colab.research.google.com/gist/frankworker/2e9dfe29f159c98f567d016716c7b
 
 ## Extract currency from a string - Regex
 https://regex101.com/r/6YsK0L/1
+
+
+## carosell
+{"_id":"carousell","startUrl":["https://hk.carousell.com/ballshoesguide/"],"selectors":[{"id":"items","type":"SelectorLink","parentSelectors":["_root"],"selector":".TpQXuJG_eo a","multiple":true,"delay":0},{"id":"tittle","type":"SelectorText","parentSelectors":["items"],"selector":"h1","multiple":false,"regex":"","delay":0},{"id":"price","type":"SelectorText","parentSelectors":["items"],"selector":"h2","multiple":false,"regex":"","delay":0},{"id":"decription","type":"SelectorText","parentSelectors":["items"],"selector":"._2Mx1RsPDTF div","multiple":false,"regex":"","delay":0}]}
