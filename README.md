@@ -38,3 +38,7 @@ https://openhome.cc/Gossip/CodeData/PythonTutorial/UnicodeBasicIOPy3.html
 https://web.ntnu.edu.tw/~samtseng/present/Python_and_Chinese.pdf
 #coding=utf-8
 https://kknews.cc/news/y88kz4g.html
+
+## emojis
+https://www.geeksforgeeks.org/python-program-to-print-emojis/
+https://unicode.org/emoji/charts/full-emoji-list.html
