@@ -30,3 +30,9 @@ https://regex101.com/r/6YsK0L/1
 
 ## carosell
 {"_id":"carousell","startUrl":["https://hk.carousell.com/ballshoesguide/"],"selectors":[{"id":"items","type":"SelectorLink","parentSelectors":["_root"],"selector":".TpQXuJG_eo a","multiple":true,"delay":0},{"id":"tittle","type":"SelectorText","parentSelectors":["items"],"selector":"h1","multiple":false,"regex":"","delay":0},{"id":"price","type":"SelectorText","parentSelectors":["items"],"selector":"h2","multiple":false,"regex":"","delay":0},{"id":"decription","type":"SelectorText","parentSelectors":["items"],"selector":"._2Mx1RsPDTF div","multiple":false,"regex":"","delay":0}]}
+
+
+
+## python encoding
+https://openhome.cc/Gossip/CodeData/PythonTutorial/UnicodeBasicIOPy3.html
+https://web.ntnu.edu.tw/~samtseng/present/Python_and_Chinese.pdf
